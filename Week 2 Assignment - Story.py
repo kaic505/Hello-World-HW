@@ -17,7 +17,7 @@ adjective3 = raw_input("Enter how the ending of any sega makes you feel: ")
 
 
 story = "Today the headline says, a new born movie star " + yourName1 + \
-     " will be starring in a movie with " + actorName1 + ". These two will\ be in a " \
+     " will be starring in a movie with " + actorName1 + ". These two will be in a " \
      + adjective1 + " relationship. The movie is called " + song1 + " in the " + time1 \
      + ", the first one of a comedy trilogy made by Christopher Nolan. " + yourName1 + \
      " will play " + character1 + ", who becomes a villian in this movie." + \
