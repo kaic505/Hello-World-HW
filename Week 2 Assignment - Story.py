@@ -17,14 +17,14 @@ adjective3 = raw_input("Enter how the ending of any sega makes you feel: ")
 
 
 story = "Today the headline says, a new born movie star " + yourName1 + \
-      " will be starring in a movie with " + actorName1 + ". These two will be in a " \
-        + adjective1 + " relationship. The movie is called " + song1 + " in the " + time1 \
-            + ", the first one of a comedy trilogy made by Christopher Nolan. " + yourName1 + " will play "\
-              + character1 + ", who becomes a villian in this movie." + " And surprisingly, "\
-                  + character2 + " will make a guest appearance. However, " + pronoun1 + " got inspired by " + foodName1 +\
-                       " and becomes a hero who saves the world(spoiler!). "\
-                     + "It is certainly a " + cost1 + " budget movie that will leave you feeling "\
-                          + adjective3 + " throughout the week, pondering over your " +  adjective2 + " life choices. "
+     " will be starring in a movie with " + actorName1 + ". These two will\ be in a " \
+     + adjective1 + " relationship. The movie is called " + song1 + " in the " + time1 \
+     + ", the first one of a comedy trilogy made by Christopher Nolan. " + yourName1 + \
+     " will play " + character1 + ", who becomes a villian in this movie." + \
+     " And surprisingly, " + character2 + " will make a guest appearance. However, " + \ 
+     pronoun1 + " got inspired by " + foodName1 + " and becomes a hero who saves the world(spoiler!). "\
+     + "It is certainly a " + cost1 + " budget movie that will leave you feeling "\
+     + adjective3 + " throughout the week, pondering over your " +  adjective2 + " life choices. "
 
 
 print (story)
