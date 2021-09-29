@@ -324,7 +324,7 @@ def winGame():
 
 def Gameover():
     player["score"] += 200
-    print (player["name"] + " You are right! He might seems to care about the money and the attention. But what he really wants, is to make connection with both robots and humans. You win:)")
+    print (player["name"] + " You are right! He might seems to care about the money and the attention. But what he really wants, is to make connection with both robots and humans. You crack it:)")
     raw_input("press enter:")
     print ( "Your score is: " + str(player["score"]) )
 
